@@ -3,7 +3,7 @@ bashPath='/Users/longzhang'
 
 nvimPath="${bashPath}/Desktop/nvim"
 nvimConfig="${bashPath}/.config/nvim"
-zshrcPath="${bashPath}/Desktop/.zshrc"
+zshrcPath="${bashPath}/.zshrc"
 nvimGitPath='https://github.com/neovim/neovim'
 if [ -d "$nvimPath" ]; then
   echo "文件已经存在"
